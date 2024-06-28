@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali1241&show_icons=true&locale=en&layout=compact" alt="anjali1241" width="450" height="200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali1241&" alt="anjali1241" width="500" height="300" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali1241&" alt="anjali1241" width="450" height="300" /></p>
 
 
 ### ✍️ Random Dev Quote
