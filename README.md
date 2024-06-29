@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Anjali Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">I’m a passionate React developer with a strong background in modern web technologies. I enjoy creating dynamic and responsive web applications that provide great user experiences.</h3>
 
 🌟 What I Love:
