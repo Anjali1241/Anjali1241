@@ -6,7 +6,6 @@
 - Building scalable and maintainable applications with Redux Toolkit
 - Streamlining development processes with modern tools like Vite
 - Creating logic in code
-- Improving myself
 
 ### 📫 How to reach me
 - **Email**: sharmaanjali1241@gmail.com
