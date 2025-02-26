@@ -8,6 +8,7 @@
 - Creating logic in code
 - Implementing state management solutions with Context API and hooks for cleaner code
 - Integrating APIs seamlessly with Axios and handling asynchronous operations.
+- Working on nextjs
 
 ### 📫 How to reach me
 - **Email**: sharmaanjali1241@gmail.com
